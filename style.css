@@ -275,3 +275,7 @@ ul li {
     margin-left: 16px;
     text-align: center;
 }
+
+#page3 {
+    display: none;
+}
