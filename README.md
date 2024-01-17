@@ -1,1 +1,1 @@
-main--inspiring-creponne-e920ec.netflity.app
+main--inspiring-creponne-e920ec.netlify.app
